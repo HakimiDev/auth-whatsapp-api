@@ -1,0 +1,16 @@
+{
+  "name": "bank-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "just a simple bot for bank.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.22.1"
+  }
+}

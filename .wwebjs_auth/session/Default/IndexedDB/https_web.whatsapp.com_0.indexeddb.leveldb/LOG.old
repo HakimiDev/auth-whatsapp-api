@@ -1,0 +1,36 @@
+2023/08/15-21:31:05.427 4078 Reusing MANIFEST D:\coding\Bank Whatsapp Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/15-21:31:05.427 4078 Recovering log #283
+2023/08/15-21:31:05.532 4078 Reusing old log D:\coding\Bank Whatsapp Bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000283.log 
+2023/08/15-21:31:29.937 3f90 Level-0 table #298: started
+2023/08/15-21:31:29.964 3f90 Level-0 table #298: 1099679 bytes OK
+2023/08/15-21:31:29.966 3f90 Delete type=0 #283
+2023/08/15-21:31:29.970 3f90 Compacting 1@0 + 0@1 files
+2023/08/15-21:31:30.016 3f90 Generated table #299@0: 30939 keys, 612833 bytes
+2023/08/15-21:31:30.016 3f90 Compacted 1@0 + 0@1 files => 612833 bytes
+2023/08/15-21:31:30.017 3f90 compacted to: files[ 0 1 10 0 0 0 0 ]
+2023/08/15-21:31:30.018 3f90 Delete type=2 #298
+2023/08/15-21:31:30.811 3f90 Compacting 1@1 + 10@2 files
+2023/08/15-21:31:30.886 3f90 Generated table #300@1: 32627 keys, 2195898 bytes
+2023/08/15-21:31:30.914 3f90 Generated table #301@1: 3997 keys, 2161904 bytes
+2023/08/15-21:31:30.942 3f90 Generated table #302@1: 3769 keys, 2160982 bytes
+2023/08/15-21:31:30.972 3f90 Generated table #303@1: 3904 keys, 2160005 bytes
+2023/08/15-21:31:31.031 3f90 Generated table #304@1: 22181 keys, 2190187 bytes
+2023/08/15-21:31:31.097 3f90 Generated table #305@1: 28878 keys, 2250783 bytes
+2023/08/15-21:31:31.149 3f90 Generated table #306@1: 20838 keys, 2188835 bytes
+2023/08/15-21:31:31.231 3f90 Generated table #307@1: 61192 keys, 2200563 bytes
+2023/08/15-21:31:31.346 3f90 Generated table #308@1: 100416 keys, 2250352 bytes
+2023/08/15-21:31:31.464 3f90 Generated table #309@1: 100972 keys, 2252067 bytes
+2023/08/15-21:31:31.482 3f90 Generated table #310@1: 10475 keys, 231751 bytes
+2023/08/15-21:31:31.482 3f90 Compacted 1@1 + 10@2 files => 22243327 bytes
+2023/08/15-21:31:31.484 3f90 compacted to: files[ 0 0 11 0 0 0 0 ]
+2023/08/15-21:31:31.484 3f90 Delete type=2 #286
+2023/08/15-21:31:31.484 3f90 Delete type=2 #287
+2023/08/15-21:31:31.484 3f90 Delete type=2 #288
+2023/08/15-21:31:31.484 3f90 Delete type=2 #289
+2023/08/15-21:31:31.484 3f90 Delete type=2 #290
+2023/08/15-21:31:31.484 3f90 Delete type=2 #291
+2023/08/15-21:31:31.484 3f90 Delete type=2 #292
+2023/08/15-21:31:31.484 3f90 Delete type=2 #293
+2023/08/15-21:31:31.484 3f90 Delete type=2 #294
+2023/08/15-21:31:31.484 3f90 Delete type=2 #295
+2023/08/15-21:31:31.484 3f90 Delete type=2 #299
